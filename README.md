@@ -17,4 +17,7 @@ The main purpose of Bizcard is to automate the process of extracting key details
 - Options like Home,Upload & Save, Preview, Modify and Delete
 
 *Home* - Just about the application
-    
+*Upload & Save* - Upload the image and store the fetched data into the SQL
+*Preview* - Used to show all the data which is available in database
+*Modify* - Used to modify the data if there is any modification required
+*Delete* - Used to delete the data from database if the data is not required
