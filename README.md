@@ -4,8 +4,8 @@
 **About** : Bizcard is a Python application designed to extract information from business cards.
 The main purpose of Bizcard is to automate the process of extracting key details from business card images, such as the name, designation, company, contact information, and other relevant data. I was created two tabs as upload & modify and delete the details
 
-**Data Retrieval:**
-- Fetched PhonePe Pulse data from PhonePe's Repo via Git Clone.
+**Fetching the data from image:**
+- Fetched the data from image and 
 - Transformed JSON data to Pandas DataFrames.
 - Converted data to CSV format and downloaded to the local environment.
 
