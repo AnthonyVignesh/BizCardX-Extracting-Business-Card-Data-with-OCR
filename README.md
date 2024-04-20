@@ -15,5 +15,6 @@ The main purpose of Bizcard is to automate the process of extracting key details
 - Utilized Streamlit for the front-end interface.
 - Created multiple options to do different activites as below
 - Options like Home,Upload & Save, Preview, Modify and Delete
-   *Home* - Just about the application
+
+- *Home* - Just about the application
     
